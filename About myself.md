@@ -1,0 +1,4 @@
+- 👋 Hi, My name is RISHIKA YATISHWAR GAUR
+- 👀 I’m interested in Full Stack Web Development, Graphic Design, Python, C/C++, Linux
+- 🌱 I’m currently pursuing BE in computer Science from CCET  (ccet.ac.in)
+- 📫 You can contact me at gotguitarinninthclass@gmail.com
